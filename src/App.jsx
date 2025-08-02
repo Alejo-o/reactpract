@@ -5,7 +5,7 @@ import { Students } from "./pages/Students";
 import { NavBar } from "./components/NavBar";
 import { Bootcamp } from "./pages/Bootcamp";
 import { Error } from "./pages/Error";
-import { Qr } from "./pages/qr";
+import { Qr } from "./pages/Qr";
 
 
 function App() {
